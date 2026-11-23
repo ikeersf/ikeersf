@@ -5,7 +5,7 @@
 **Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)**
 **Técnico en Sistemas Microinformáticos y Redes (SMX)**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iker-sanchez-fuentes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iker-sanchez-fuentes)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikersafu@gmail.com)
 
 </div>
@@ -20,19 +20,6 @@ Especializado en la administración de sistemas, infraestructuras de red y ciber
 - **Área de estudio:** Ciberseguridad, análisis SOC y monitorización de redes.
 - **Stack principal:** Linux, Redes, LXD, Docker, PHP, Bash.
 - **Ubicación:** Barcelona, España.
-
----
-
-### Métricas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikeersf&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikeersf&theme=radical&hide_border=true" alt="Racha de commits" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikeersf&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" width="50%" />
-</div>
 
 ---
 
@@ -67,9 +54,3 @@ Especializado en la administración de sistemas, infraestructuras de red y ciber
     </td>
   </tr>
 </table>
-
-<br>
-
-<div align="center">
-  <i>"La automatización es la base para escalar infraestructuras de forma segura y eficiente."</i>
-</div>
