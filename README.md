@@ -16,7 +16,7 @@
 
 Especializado en la administración de sistemas, infraestructuras de red y ciberseguridad. Enfocado en la automatización de despliegues, la virtualización y la monitorización de servicios. Apasionado por construir infraestructuras robustas desde cero y documentar cada fase del proceso.
 
-- **Enfoque actual:** Desarrollo de **Terraria LXC Manager** y despliegue de entornos contenerizados.
+- **Enfoque actual:** Desarrollo de **Omni-soc** y despliegue de entornos contenerizados.
 - **Área de estudio:** Ciberseguridad, análisis SOC y monitorización de redes.
 - **Stack principal:** Linux, Redes, LXD, Docker, PHP, Bash.
 - **Ubicación:** Barcelona, España.
