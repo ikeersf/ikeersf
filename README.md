@@ -50,7 +50,7 @@ Especializado en la administración de sistemas, infraestructuras de red y ciber
     <td width="50%">
       <h4>Omni-SOC</h4>
       <p>Infraestructura de red que simula un entorno empresarial para el despliegue de capacidades de monitorización y respuesta a incidentes.</p>
-      <a href="https://github.com/ivanvivarriado/Omni-SOC"><b>Ver Repositorio</b></a>
+      <a href="https://github.com/ivanvivartirado/Omni-SOC"><b>Ver Repositorio</b></a>
     </td>
   </tr>
 </table>
